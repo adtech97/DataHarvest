@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: scm-etl-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: scm-etl
+  template:
+    metadata:
+      labels:
+        app: scm-etl
+    spec:
+      containers:
+      - name: scm-etl-container
+        image: europe-west4-docker.pkg.dev/scm-group14/scm-container-repository/scm_etl_pipeline:latest  # Update with your new Docker image
+        imagePullPolicy: Always  # or PullIfNotPresent
+        ports:
+        - containerPort: 80

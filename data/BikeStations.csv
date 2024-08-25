@@ -1,0 +1,115 @@
+STATION ID,ADDRESS,LONGITUDE,LATITUDE,BIKE_STANDS
+1,Clarendon Row,-6.2625,53.3409,31
+2,Blessington Street,-6.26814,53.3568,20
+3,Bolton Street,-6.26986,53.3512,20
+4,Greek Street,-6.27298,53.3469,20
+5,Charlemont Street,-6.26018,53.3307,40
+6,Christchurch Place,-6.27012,53.3434,20
+7,High Street,-6.27507,53.3436,29
+8,Custom House Quay,-6.24805,53.3479,30
+9,Exchequer Street,-6.26358,53.343,24
+10,Dame Street,-6.2668,53.344,16
+11,Earlsfort Terrace,-6.2585,53.3343,30
+12,Eccles Street,-6.26978,53.3592,20
+13,Fitzwilliam Square West,-6.25282,53.3361,30
+14,Fownes Street Upper,-6.26337,53.3446,30
+15,Hardwicke Street,-6.26442,53.3555,16
+16,Georges Quay,-6.25219,53.3475,20
+17,Golden Lane,-6.26773,53.3408,20
+18,Grantham Street,-6.26544,53.3341,30
+19,Herbert Place,-6.24557,53.3344,30
+20,James Street East,-6.24811,53.3366,30
+21,Leinster Street South,-6.25449,53.3422,30
+22,Townsend Street,-6.25461,53.3459,20
+23,Custom House,-6.25466,53.3483,30
+24,Cathal Brugha Street,-6.26053,53.3521,20
+25,Merrion Square East,-6.24655,53.3394,30
+26,Merrion Square West,-6.25199,53.3398,20
+27,Molesworth Street,-6.25812,53.3413,20
+28,Mountjoy Square West,-6.25859,53.3563,30
+29,Ormond Quay Upper,-6.268,53.3461,29
+30,Parnell Square North,-6.26531,53.3535,20
+31,Parnell Street,-6.26512,53.3509,20
+32,Pearse Street,-6.25043,53.3443,30
+33,Princes Street / O'Connell Street,-6.26031,53.349,23
+34,Portobello Harbour,-6.26516,53.3304,30
+35,Smithfield,-6.27821,53.3477,30
+36,St. Stephen's Green East,-6.25603,53.3378,40
+37,St. Stephen's Green South,-6.26199,53.3375,30
+38,Talbot Street,-6.25294,53.351,40
+39,Wilton Terrace,-6.25272,53.3324,20
+40,Jervis Street,-6.26665,53.3483,21
+41,Harcourt Terrace,-6.25794,53.3328,20
+42,Smithfield North,-6.2782,53.3496,30
+43,Portobello Road,-6.26804,53.3301,30
+44,Upper Sherrard Street,-6.26064,53.3584,30
+45,Deverell Place,-6.25527,53.3515,30
+47,Herbert Street,-6.24551,53.3357,40
+48,Excise Walk,-6.24424,53.3478,40
+49,Guild Street,-6.24093,53.3479,40
+50,George's Lane,-6.2797,53.3502,40
+51,York Street West,-6.2647,53.3393,40
+52,York Street East,-6.262,53.3388,32
+53,Newman House,-6.26059,53.3371,40
+54,Clonmel Street,-6.26298,53.336,33
+55,Hatch Street,-6.26071,53.334,36
+56,Mount Street Lower,-6.24153,53.338,40
+57,Grattan Street,-6.24378,53.3396,23
+58,Sir Patrick's Dun,-6.24064,53.3392,40
+59,Denmark Street Great,-6.2614,53.3556,20
+60,North Circular Road,-6.26035,53.3596,30
+61,Hardwicke Place,-6.26323,53.357,25
+62,Lime Street,-6.24358,53.346,40
+63,Fenian Street,-6.24672,53.3414,35
+64,Sandwith Street,-6.24716,53.3452,40
+65,Convention Centre,-6.23852,53.3474,40
+66,New Central Bank,-6.23475,53.3471,40
+67,The Point,-6.23085,53.3469,40
+68,Hanover Quay,-6.23715,53.3441,40
+69,Grand Canal Dock,-6.2387,53.3426,40
+71,Kevin Street,-6.2677,53.3378,40
+72,John Street West,-6.27717,53.3431,31
+73,Francis Street,-6.27523,53.3421,30
+74,Oliver Bond Street,-6.28053,53.3439,30
+75,James Street,-6.28741,53.3435,40
+76,Market Street South,-6.28766,53.3423,38
+77,Wolfe Tone Street,-6.26746,53.3489,29
+78,Mater Hospital,-6.26483,53.36,40
+79,Eccles Street East,-6.2656,53.3581,27
+80,St James Hospital (Luas),-6.29295,53.3414,40
+82,Mount Brown,-6.29719,53.3416,22
+83,Emmet Road,-6.30819,53.3407,40
+84,Brookfield Road,-6.30022,53.339,30
+85,Rothe Abbey,-6.30395,53.3388,35
+86,Parkgate Street,-6.2918,53.348,38
+87,Collins Barracks Museum,-6.28525,53.3475,38
+88,Blackhall Place,-6.28164,53.3488,30
+89,Fitzwilliam Square East,-6.2509,53.3352,40
+90,Benson Street,-6.23345,53.3442,40
+91,South Dock Road,-6.23129,53.3418,30
+92,Heuston Bridge (North),-6.29243,53.3478,40
+93,Heuston Station (Central),-6.29692,53.3466,40
+94,Heuston Station (Car Park),-6.2978,53.347,40
+95,Royal Hospital,-6.29706,53.3439,40
+96,Kilmainham Lane,-6.30509,53.3418,30
+97,Kilmainham Gaol,-6.31002,53.3421,40
+98,Frederick Street South,-6.25685,53.3415,40
+99,City Quay,-6.24615,53.3466,30
+100,Heuston Bridge (South),-6.29204,53.3471,25
+101,King Street North,-6.27351,53.3503,30
+102,Western Way,-6.26942,53.3549,40
+103,Grangegorman Lower (South),-6.27868,53.3547,40
+104,Grangegorman Lower (Central),-6.27842,53.3552,40
+105,Grangegorman Lower (North),-6.27838,53.356,36
+106,Rathdown Road,-6.28034,53.3589,40
+107,Charleville Road,-6.28187,53.3592,40
+108,Avondale Road,-6.27614,53.3594,35
+109,Buckingham Street Lower,-6.24932,53.3533,29
+110,Phibsborough Road,-6.27372,53.3563,40
+111,Mountjoy Square East,-6.25636,53.3567,40
+112,North Circular Road (O'Connell's),-6.25156,53.3578,30
+113,Merrion Square South,-6.24861,53.3386,40
+114,Wilton Terrace (Park),-6.24834,53.3337,40
+115,Killarney Street,-6.24758,53.3548,30
+116,Broadstone,-6.27231,53.3547,30
+117,Hanover Quay East,-6.23175,53.3437,40
